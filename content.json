@@ -1,0 +1,51 @@
+{
+  "data": {
+    "siteId": "57113954-54fe-4bf0-b106-820e5f4f6214",
+    "name": "Cookie",
+    "phone": "0141 560 0350",
+    "address": "47 randolph crescent, Falkirk",
+    "headline": "Falkirk's Trusted Plumber — Cookie's Got It Covered",
+    "aboutText": "Cookie has been keeping Falkirk's homes and businesses running smoothly, one pipe at a time. Based right here in Randolph Crescent, we're your local first call for everything from a dripping tap to a full bathroom transformation. No call centres, no fuss — just honest, reliable plumbing from someone who knows the area.",
+    "services": [
+      {
+        "name": "Emergency Callouts",
+        "blurb": "Burst pipe at midnight or a boiler that's packed in on a cold morning — Cookie gets to you fast when it matters most."
+      },
+      {
+        "name": "Boiler Repair & Installation",
+        "blurb": "Whether your boiler needs a fix or it's time for a full replacement, Cookie handles it safely and efficiently to keep your home warm."
+      },
+      {
+        "name": "Bathroom Installation",
+        "blurb": "From a fresh shower enclosure to a complete bathroom overhaul, Cookie takes the stress out of the job and leaves you with a finish you'll love."
+      },
+      {
+        "name": "Leak Detection",
+        "blurb": "Hidden leaks can cause serious damage fast — Cookie tracks down the source quickly and sorts it before it becomes a bigger problem."
+      }
+    ],
+    "faqs": [],
+    "rating": 0,
+    "reviewCount": 0,
+    "contactEmail": null
+  },
+  "paletteId": "terracotta",
+  "templateId": "split",
+  "images": {
+    "hero": "./images/hero.png",
+    "service1": "./images/service1.png",
+    "service2": "./images/service2.png",
+    "service3": "./images/service3.png",
+    "service4": "./images/service4.png",
+    "reviewer1": "./images/reviewer1.png",
+    "reviewer2": "./images/reviewer2.png",
+    "reviewer3": "./images/reviewer3.png",
+    "reviewer4": "./images/reviewer4.png",
+    "reviewer5": "./images/reviewer5.png"
+  },
+  "appsScriptUrl": null,
+  "siteType": "demo",
+  "backendEnabled": false,
+  "supabaseUrl": null,
+  "supabaseAnonKey": null
+}
